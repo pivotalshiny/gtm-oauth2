@@ -398,6 +398,7 @@
 				INSTALL_PATH = /usr/local/lib;
 				PRODUCT_NAME = OAuthTouch2;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 			};
 			name = Debug;
 		};
@@ -411,6 +412,7 @@
 				INSTALL_PATH = /usr/local/lib;
 				PRODUCT_NAME = OAuthTouch2;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 			};
 			name = Release;
 		};
